@@ -7,9 +7,9 @@
 # If  n is even and greater than 20 , print Not Weird
 
 
-n = input("enter the number: ")
+print(2 // 2)
 
-print(int(n) % 2)
+n = input("enter the number: ")
 
 if int(n) % 2 > 0:
     print("Weird")
